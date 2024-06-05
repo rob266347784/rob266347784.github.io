@@ -202,7 +202,7 @@ We're going to build the page from scratch:
   <!DOCTYPE HTML>
   <html>
       <head>
-      </head>
+      <
 
       <body>
         <div id="all-contents">
